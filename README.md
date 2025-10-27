@@ -61,6 +61,13 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
 
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
 ## 🌟 About Me
 
 Hi there! I'm **Raunak Jha**, Data Analyst. I’m a professional and passionate Data Analyst on a mission to enhance knowledge skills and work on the some challenging projects.
